@@ -1,0 +1,18 @@
+<site>
+  <site_code></site_code>
+  <site_url></site_url>
+  <crawl_base_url></crawl_base_url>
+  <logo_url></logo_url>
+  <cities>
+    <entry>
+      <city></city>     
+       <uri></uri>
+       <uri></uri>
+       <uri></uri>
+    </entry>
+    <entry>
+      <city></city>
+      <uri></uri>     
+    </entry>
+  </cities>
+</site>

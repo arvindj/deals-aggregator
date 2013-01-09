@@ -1,0 +1,24 @@
+<site>
+    <site_code>dealsandyou</site_code>
+    <site_url>http://www.dealsandyou.com/</site_url>
+    <crawl_base_url>http://www.dealsandyou.com/</crawl_base_url>
+    <logo_url>http://dnycdn1.dealsandyou.com/images/logo.gif</logo_url>
+    <cities>
+        <entry>
+            <city>bangalore</city>     
+            <uri>bangalore-c-4.html</uri>
+        </entry>
+        <entry>
+            <city>mumbai</city>
+            <uri>mumbai-c-3.html</uri>     
+        </entry>
+        <entry>
+            <city>pune</city>
+            <uri>pune-c-7.html</uri>
+        </entry>
+        <entry>
+            <city>chandigarh</city>
+            <uri>chandigarh-c-11.html</uri>
+        </entry>
+    </cities>
+</site>

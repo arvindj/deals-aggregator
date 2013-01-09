@@ -1,0 +1,20 @@
+<site>
+  <site_code>scoopstr</site_code>
+  <site_url>http://scoopstr.com/</site_url>
+  <crawl_base_url>http://scoopstr.com/</crawl_base_url>
+  <logo_url>http://scoopstr.com/themes/images/public/logo.png</logo_url>
+  <cities>
+    <entry>
+      <city>bangalore</city>     
+       <uri>bangalore</uri>
+    </entry>
+    <entry>
+      <city>delhi</city>
+      <uri>new-delhi</uri>     
+    </entry>
+    <entry>
+      <city>mumbai</city>
+      <uri>mumbai</uri>     
+    </entry>
+  </cities>
+</site>

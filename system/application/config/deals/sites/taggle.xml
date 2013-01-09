@@ -1,0 +1,16 @@
+<site>
+    <site_code>taggle</site_code>
+    <site_url>http://taggle.com</site_url>
+    <crawl_base_url>http://www.taggle.com/</crawl_base_url>
+    <logo_url>http://www.taggle.com/media/site_images/taggleLogo.png</logo_url>
+  <cities>
+    <entry>
+      <city>bangalore</city>     
+      <uri>Bengaluru</uri>
+    </entry>
+    <entry>
+      <city>mumbai</city>
+      <uri>Mumbai</uri>     
+    </entry>
+  </cities>
+</site>

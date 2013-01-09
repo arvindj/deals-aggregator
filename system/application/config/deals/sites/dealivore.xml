@@ -1,0 +1,34 @@
+<site>
+  <site_code>dealivore</site_code>
+  <site_url>http://www.dealivore.com/</site_url>
+  <crawl_base_url>http://www.dealivore.com/deal/</crawl_base_url>
+  <logo_url>http://images.dealivore.com/images/logo.gif</logo_url>
+  <cities>
+    <entry>
+      <city>bangalore</city>     
+      <uri>bangalore</uri>
+    </entry>
+    <entry>
+      <city>chennai</city>
+      <uri>chennai</uri>     
+    </entry>
+        <entry>
+        <city>hyderabad</city>
+        <uri>hyderabad</uri>
+    </entry>
+    <entry>
+        <city>pune</city>
+        <uri>pune</uri>
+    </entry>
+    <entry>
+        <city>delhi</city>
+        <uri>delhi</uri>
+    </entry>
+    <!--
+    <entry>
+        <city>mumbai</city>
+        <uri>mumbai</uri>
+    </entry>
+-->
+</cities>
+</site>
